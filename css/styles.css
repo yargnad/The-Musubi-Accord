@@ -240,6 +240,32 @@ header {
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
+.interlude-card {
+    background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%);
+    border-top: 3px solid #667eea;
+    border-left: 3px solid #667eea;
+    position: relative;
+}
+
+.interlude-card::before {
+    content: "INTERLUDE";
+    position: absolute;
+    top: -12px;
+    left: 20px;
+    background: linear-gradient(135deg, #667eea 0%, #4c51bf 100%);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 12px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.interlude-card .act-number {
+    color: #667eea;
+    opacity: 0.5;
+}
+
 .act-number {
     position: absolute;
     top: var(--space-sm);

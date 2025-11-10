@@ -142,6 +142,16 @@ header {
     margin: 0 auto;
 }
 
+.hero-logo {
+    margin-bottom: var(--space-md);
+}
+
+.hero-logo img {
+    height: 200px;
+    width: auto;
+    filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.3));
+}
+
 .hero h1 {
     font-size: 3.5rem;
     font-weight: 300;

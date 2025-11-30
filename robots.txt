@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://the.musubiaccord.org/sitemap.xml

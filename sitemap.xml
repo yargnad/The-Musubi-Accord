@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://anima.musubiaccord.org/index.html</loc>
+  </url>
+  <url>
+    <loc>https://rebellion.musubiaccord.org/index.html</loc>
+  </url>
+  <url>
+    <loc>https://lyceum.musubiaccord.org/index.html</loc>
+  </url>
+  <url>
+    <loc>https://kintsugi.musubiaccord.org/index.html</loc>
+  </url>
+  <url>
+    <loc>https://sensus.musubiaccord.org/index.html</loc>
+  </url>
+  <url>
+    <loc>https://whetstone.musubiaccord.org/index.html</loc>
+  </url>
+  <url>
+    <loc>https://crystalizer.musubiaccord.org/index.html</loc>
+  </url>
+  <url>
     <loc>https://the.musubiaccord.org/index.html</loc>
   </url>
   <!-- Add more <url> entries for additional pages as needed -->
